@@ -1,6 +1,6 @@
 import React from "react";
 import Frameimg12 from "../footer/frame12.png";
-import { IoLogoInstagram } from "react-icons/io5";
+// import { IoLogoInstagram } from "react-icons/io5";
 import { FaFacebookSquare } from "react-icons/fa";
 const Footer = () => {
   return (
