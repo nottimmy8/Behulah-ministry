@@ -1,6 +1,5 @@
 import React from "react";
 import Frameimg12 from "../footer/frame12.png";
-// import { IoLogoInstagram } from "react-icons/io5";
 import { FaFacebookSquare } from "react-icons/fa";
 const Footer = () => {
   return (
@@ -21,7 +20,6 @@ const Footer = () => {
         </div>
         {/* social icons */}
         <div className=" flex justify-center gap-2">
-          <IoLogoInstagram size={30} />
           <FaFacebookSquare size={30} />
         </div>
       </div>
